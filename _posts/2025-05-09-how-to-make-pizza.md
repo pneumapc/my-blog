@@ -2,7 +2,8 @@
 layout: post
 title: "피자 만드는 방법"
 date: 2025-05-09 17:05:53 +0900
-categories: food recipes
+categories: [food, recipes]
+tags: [pizza, cooking, Italian]
 ---
 
 # 피자 만드는 방법
